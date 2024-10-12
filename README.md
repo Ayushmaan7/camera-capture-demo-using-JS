@@ -20,6 +20,5 @@ This project demonstrates how to access a device's camera using JavaScript and c
 
 4. Click the "Capture Photo" button to take a snapshot.
 
-## Browser Support
 
 This demo works best in Chrome and Edge as they fully support the MediaDevices API.
